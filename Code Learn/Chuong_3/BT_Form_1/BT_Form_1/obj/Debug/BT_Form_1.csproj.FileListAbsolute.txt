@@ -1,0 +1,10 @@
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\obj\Debug\BT_Form_1.csprojAssemblyReference.cache
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\obj\Debug\BT_Form_1.Formdangnhap.resources
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\obj\Debug\BT_Form_1.Properties.Resources.resources
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\obj\Debug\BT_Form_1.csproj.GenerateResource.cache
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\obj\Debug\BT_Form_1.csproj.CoreCompileInputs.cache
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\bin\Debug\BT_Form_1.exe.config
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\bin\Debug\BT_Form_1.exe
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\bin\Debug\BT_Form_1.pdb
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\obj\Debug\BT_Form_1.exe
+D:\Code\C sharp\Chuong_3\BT_Form_1\BT_Form_1\obj\Debug\BT_Form_1.pdb

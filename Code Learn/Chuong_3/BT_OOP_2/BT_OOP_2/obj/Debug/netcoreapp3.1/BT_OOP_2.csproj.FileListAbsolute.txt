@@ -1,0 +1,13 @@
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\obj\Debug\netcoreapp3.1\BT_OOP_2.csprojAssemblyReference.cache
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\obj\Debug\netcoreapp3.1\BT_OOP_2.AssemblyInfoInputs.cache
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\obj\Debug\netcoreapp3.1\BT_OOP_2.AssemblyInfo.cs
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\obj\Debug\netcoreapp3.1\BT_OOP_2.csproj.CoreCompileInputs.cache
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\bin\Debug\netcoreapp3.1\BT_OOP_2.exe
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\bin\Debug\netcoreapp3.1\BT_OOP_2.deps.json
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\bin\Debug\netcoreapp3.1\BT_OOP_2.runtimeconfig.json
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\bin\Debug\netcoreapp3.1\BT_OOP_2.runtimeconfig.dev.json
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\bin\Debug\netcoreapp3.1\BT_OOP_2.dll
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\bin\Debug\netcoreapp3.1\BT_OOP_2.pdb
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\obj\Debug\netcoreapp3.1\BT_OOP_2.dll
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\obj\Debug\netcoreapp3.1\BT_OOP_2.pdb
+D:\Code\C sharp\Chuong_3\BT_OOP_2\BT_OOP_2\obj\Debug\netcoreapp3.1\BT_OOP_2.genruntimeconfig.cache
