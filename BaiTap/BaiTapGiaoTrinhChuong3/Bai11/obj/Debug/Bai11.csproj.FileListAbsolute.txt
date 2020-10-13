@@ -1,0 +1,6 @@
+D:\Document\LapTrinh .Net - C#\BaiTap\BaiTapGiaoTrinhChuong3\Bai11\bin\Debug\Bai11.exe.config
+D:\Document\LapTrinh .Net - C#\BaiTap\BaiTapGiaoTrinhChuong3\Bai11\bin\Debug\Bai11.exe
+D:\Document\LapTrinh .Net - C#\BaiTap\BaiTapGiaoTrinhChuong3\Bai11\bin\Debug\Bai11.pdb
+D:\Document\LapTrinh .Net - C#\BaiTap\BaiTapGiaoTrinhChuong3\Bai11\obj\Debug\Bai11.csproj.CoreCompileInputs.cache
+D:\Document\LapTrinh .Net - C#\BaiTap\BaiTapGiaoTrinhChuong3\Bai11\obj\Debug\Bai11.exe
+D:\Document\LapTrinh .Net - C#\BaiTap\BaiTapGiaoTrinhChuong3\Bai11\obj\Debug\Bai11.pdb
